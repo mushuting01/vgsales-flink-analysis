@@ -1,0 +1,45 @@
+年份|年度最佳游戏|平台|类型|出版商|总销售额(M)
+1977|Combat|2600|Action|Atari|1.25
+1978|Circus Atari|2600|Action|Atari|0.46
+1979|Slot Machine|2600|Action|Atari|0.31
+1980|Boxing|2600|Fighting|Activision|0.77
+1981|Asteroids|2600|Shooter|Atari|4.31
+1982|Demon Attack|2600|Shooter|Imagic|2.13
+1983|Dig Dug|2600|Puzzle|Atari|1.64
+1984|Jr. Pac-Man|2600|Puzzle|Atari|0.78
+1985|Clu Clu Land|NES|Puzzle|Nintendo|0.82
+1986|Ninja Hattori Kun: Ninja wa Shuugyou Degogiru no Maki|NES|Platform|Hudson Soft|1.50
+1987|Gegege no Kitarou 2: Youkai Gundan no Chousen|NES|Role-Playing|Bandai|1.25
+1988|R.B.I. Baseball|NES|Sports|Tengen|2.20
+1989|Teenage Mutant Ninja Turtles|NES|Platform|Ultra Games|4.17
+1990|Streets of Rage|GEN|Action|Sega|2.60
+1991|R.B.I. Baseball 3|NES|Sports|Tengen|1.18
+1992|Teenage Mutant Ninja Turtles III: The Manhattan Project|NES|Action|Konami|1.39
+1993|Mortal Kombat|GEN|Fighting|Arena Entertainment|2.67
+1994|Doom II|PC|Shooter|GT Interactive|3.61
+1995|Rayman|PS|Platform|Ubisoft|3.03
+1996|Tekken 2|PS|Fighting|Namco|5.74
+1997|Tomb Raider II|PS|Adventure|Eidos Interactive|5.24
+1998|Tomb Raider III: Adventures of Lara Croft|PS|Adventure|Eidos Interactive|3.54
+1999|Driver|PS|Action|GT Interactive|6.27
+2000|Driver 2|PS|Action|Atari|4.73
+2001|Grand Theft Auto III|PS2|Action|Rockstar Games|13.10
+2002|Grand Theft Auto: Vice City|PS2|Action|Rockstar Games|16.15
+2003|Need for Speed Underground|PS2|Racing|Electronic Arts|7.20
+2004|Need for Speed Underground 2|PS2|Racing|Electronic Arts|6.90
+2005|Grand Theft Auto: Liberty City Stories|PSP|Action|Rockstar Games|7.72
+2006|Cooking Mama|DS|Simulation|Majesco|5.66
+2007|Call of Duty 4: Modern Warfare|X360|Shooter|Activision|9.41
+2008|Grand Theft Auto IV|X360|Action|Rockstar Games|11.09
+2009|Call of Duty: Modern Warfare 2|X360|Shooter|Activision|13.53
+2010|Call of Duty: Black Ops|X360|Shooter|Activision|14.74
+2011|Call of Duty: Modern Warfare 3|X360|Shooter|Activision|14.82
+2012|Call of Duty: Black Ops II|X360|Shooter|Activision|13.86
+2013|Grand Theft Auto V|PS3|Action|Rockstar Games|20.32
+2014|Grand Theft Auto V|PS4|Action|Rockstar Games|19.39
+2015|Call of Duty: Black Ops 3|PS4|Shooter|Activision|15.09
+2016|FIFA 17|PS4|Sports|Electronic Arts|10.94
+2017|Call of Duty: WWII|PS4|Shooter|Activision|13.40
+2018|Red Dead Redemption 2|PS4|Action-Adventure|Rockstar Games|13.94
+2019|Yokai Watch 3: Sukiyaki|3DS|Role-Playing|Nintendo|0.81
+2020|Final Fantasy Type-0|PSP|Role-Playing|Unknown|0.81

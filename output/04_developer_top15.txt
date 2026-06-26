@@ -1,0 +1,16 @@
+开发商|游戏数量|总销售额(M)|平均销售额(M)
+EA Canada|286|275.56|0.96
+EA Tiburon|192|178.33|0.93
+Ubisoft Montreal|161|172.96|1.07
+Treyarch|56|150.19|2.68
+Traveller's Tales|150|149.55|1.00
+Infinity Ward|28|118.97|4.25
+Rockstar North|21|116.91|5.57
+Konami|397|109.54|0.28
+Visual Concepts|133|97.61|0.73
+Capcom|284|93.02|0.33
+Namco|114|73.28|0.64
+Vicarious Visions|90|65.99|0.73
+Ubisoft|176|62.40|0.35
+EA Black Box|47|57.20|1.22
+Neversoft Entertainment|49|56.30|1.15

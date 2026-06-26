@@ -1,0 +1,16 @@
+出版商|游戏数量|总销售额(M)|平均销售额(M)
+Activision|1017|722.77|0.71
+Electronic Arts|803|644.13|0.80
+EA Sports|530|485.66|0.92
+Ubisoft|926|462.57|0.50
+THQ|701|320.89|0.46
+Sony Computer Entertainment|547|311.08|0.57
+Rockstar Games|91|239.67|2.63
+Konami|746|210.70|0.28
+Sega|618|206.38|0.33
+Nintendo|371|140.80|0.38
+Capcom|423|131.24|0.31
+LucasArts|128|118.48|0.93
+Bethesda Softworks|103|111.08|1.08
+Warner Bros. Interactive Entertainment|162|103.51|0.64
+Disney Interactive Studios|189|103.30|0.55
